@@ -59,16 +59,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielFilipeFloresNovo&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielFilipeFloresNovo&theme=github_dark" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DanielFilipeFloresNovo&theme=tokyonight&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=DanielFilipeFloresNovo&theme=github-dark-blue" />
 </p>
 
 ---
