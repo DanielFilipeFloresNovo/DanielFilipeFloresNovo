@@ -80,10 +80,17 @@ I’m an **adaptive engineer**, skilled in transforming problems into clear, exe
 </p>
 
 ---
-
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-novo-7079b839a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielfilipefn@gmail.com)
+
+<p>
+  <a href="https:///www.linkedin.com/in/daniel-novo-7079b839a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:danielfilipefn@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
