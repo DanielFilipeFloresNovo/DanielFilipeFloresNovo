@@ -56,11 +56,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DanielFilipeFloresNovo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFilipeFloresNovo&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielFilipeFloresNovo&show_icons=true&theme=github_dark&cache_seconds=1800" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFilipeFloresNovo&layout=compact&theme=github_dark&cache_seconds=1800" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
