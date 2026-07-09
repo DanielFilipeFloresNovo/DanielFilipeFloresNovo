@@ -56,7 +56,7 @@ I’m an **adaptive engineer**, skilled in transforming problems into clear, exe
 *   **Drone Management System (Grade: 16/20):** A monitoring and control system developed using **Java** and **SQL** for real-time drone management.
 *   **Green Space Management (Grade: 15/20):** A Java-based resource management application that helps municipalities track and optimize green spaces using **JavaFX**.
 *   **XD Fusion (Internship):** Developed automated marketing workflows and event architectures using **n8n** to streamline business processes.
-*   **Esc (GameJam):** Participated in the development of a game during a Game Jam, contributing to gameplay, enemy and ui design, creative ideas, and implementation.
+*   **Esc (GameJam):** Participated in the development of a game during a Game Jam, contributing to gameplay, enemy and ui design, creative ideas, and implementation. https://davidsousa01.itch.io/esc
 
 ---
 
